@@ -6,3 +6,5 @@ date: 2020-12-26
 tags: [blog]
 comment: true
 share: true
+---
+![main001]({{ site.baseurl }}/images/main001.png)
