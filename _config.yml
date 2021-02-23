@@ -33,7 +33,7 @@ navigation:
   #  url: https://github.com/AWEEKJ/kiko-now
 
 # Pagination
-paginate: 5
+paginate: 3
 
 # Includes an icon in the footer for each username you enter
 footer-links:
