@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Hello, World
 ---
-[우아한형제들](https://www.woowahan.com/) IT서비스운영팀 이청규 입니다.  
+[우아한형제들](https://www.woowahan.com/) IT업무프로세스개선팀 이청규 입니다.  
 현재는 사내의 JIRA, WIKI(Confluence), Google Workspace(G Suite), Slack 어드민 업무를 하고 있습니다.  
 
 우아한형제들 합류 전에는,  
